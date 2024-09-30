@@ -1,6 +1,6 @@
 # Paper
 - "RISOPA: Rapid Imperceptible Strong One-Pixel Attacks in Deep Neural Networks"  
-- 📎 https://www.mdpi.com/2227-7390/12/7/1083
+- 📜 https://www.mdpi.com/2227-7390/12/7/1083
 - Indexed in Scopus
 - 🏆 Best Paper Award at the Korean Conference on Computer Science (July 2024)
 
